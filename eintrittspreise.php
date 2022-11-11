@@ -1,4 +1,4 @@
-<html>
+<html>Title
 <head>
     <title>Kinocenter</title>
 </head>

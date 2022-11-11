@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="e6f282fe-b6bb-4db6-8ab3-51e8c7d4f267" name="Debian" home="\\wsl$\Debian/usr/bin/php" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="Debian" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
 </project>
