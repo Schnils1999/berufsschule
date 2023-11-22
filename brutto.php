@@ -11,7 +11,6 @@ $bruttopreis = $nettopreis + $nettopreis*$mehrwertsteuer/100; //in EUR
 
 //Ausgabe
 echo "Der Bruttopreis des Produkts entspricht: $bruttopreis";
-
 ?>
 </body>
 </html>
